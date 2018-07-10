@@ -1,0 +1,30 @@
+4. Create a basic application 
+
+How much water runs off a roof in a rain storm?
+
+To calculate the runoff from any given rainfall: Take the dimensions of the 
+footprint of the roof and convert them to inches. (So, a 50' x 20' roof is 600" x 240").
+Multiply the roof dimensions by the number of inches of rainfall. 
+In this example, 600" x 240" x 1" = 144,000 cubic inches of water. 
+Divide that result by 231 to get the number of gallons (because 1 gallon = 231 cubic inches). (144,000/231 = 623.38).
+
+Write the pseudocode for the above problem. 
+If you use the numbers provided in the example then the correct pseudocode will calculate the same result.
+
+A) Define the problem by constructing an algorithm usig pseudocode
+Algorithm: (12x, 12x)(x)
+Pseudocode:
+1. Roof dimensions in inches (x, x)*12
+2. Multipy the dimensions of the footprint of teh roof in inches by the number of inches of rainfall(12x,12x)* #of inches of rainfall
+3. Output reults 
+b)Create an IPO diagram showing input, ouput, and processing steps 
+Input: Dimensions of the footprint of the roof in feet
+Proccess: Multipy dimmention of the footprint of the roof in feet by 12 to convert into inche and multipy by the number of inches of rainfall : (12x, 12x)(x)
+Output: Print reult 
+
+C)what control strucutes (sequence, selection, and repetition) are required?
+sequence
+D) What variables are required?
+input variables: Roof di
+output variable: reults
+E) show a chek of your solution with test data for at least two valid test cases.

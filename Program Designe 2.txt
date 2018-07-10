@@ -1,0 +1,35 @@
+Program Designe 
+
+2. Create a basic application 
+
+His little sister now wants a program to read three numbers, 
+add them together and print their total.
+
+A) Define the problem by constructing an algorithm usig pseudocode
+Algorithm: result = X+X+X
+Pseudocode:
+1.Generate RandomNumbers X*3
+2.Apply algorithm X+X+X
+3.Output Results sum of x
+
+b)Create an IPO diagram showing input, ouput, and processing steps 
+Input: RandomNumber 
+Proccess: Add RandomNumber X+X+X
+Output: Result
+
+C)what control strucutes (sequence, selection, and repetition) are required?
+
+Sequenc 
+
+D) What variables are required?
+Variables: RandomNumber
+Output variables: Result
+
+E) Show a chek of your solution with test data for at least two valid test cases.
+
+Result = 3+3+3=9
+Result = 5+5+5=15
+
+
+
+
